@@ -11,4 +11,4 @@ This project repository contains documentation of the development of the Enedrai
 <br/>
 &nbsp;
 
-[![Enerdrais BeVisioneers Project](http://dicer0.com/wp-content/uploads/2025/04/r_BeVisioneers_Enerdrais_MkI.gif)](https://dicer0.com/#skills)
+[![Enerdrais BeVisioneers Project](http://dicer0.com/wp-content/uploads/2025/04/r_BeVisioneers_Enerdrais_MarkI.gif)](https://dicer0.com/#skills)
